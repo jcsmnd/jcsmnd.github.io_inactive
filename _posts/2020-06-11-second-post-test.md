@@ -1,5 +1,6 @@
 ---
-categories: Tech
+categories: IT Network
+tags: classic hollywood
 defaults:
   # _posts
   - scope:

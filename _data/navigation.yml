@@ -20,7 +20,7 @@
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "Collection"
-    url: /collection-archive/
+#  - title: "Collection"
+#    url: /collection-archive/
   - title: "Google Fi Referral $20"
     url: https://g.co/fi/r/NRTD0D

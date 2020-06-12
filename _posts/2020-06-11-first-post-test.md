@@ -1,5 +1,6 @@
 ---
-categories: Personal
+category: IT Network
+tag: classic hollywood
 collections: 
 defaults:
   # _posts
