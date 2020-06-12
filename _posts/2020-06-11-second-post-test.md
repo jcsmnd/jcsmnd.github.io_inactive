@@ -1,6 +1,5 @@
 ---
-categories: Personal
-collections: 
+categories: Tech
 defaults:
   # _posts
   - scope:
@@ -13,13 +12,10 @@ defaults:
       comments: true
       share: true
       related: true
-      
 ---
 
 # Welcome
 
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
+**Hello world**, this is my second Jekyll blog post.
 
 <!--- Author: Myungsik Kim -->

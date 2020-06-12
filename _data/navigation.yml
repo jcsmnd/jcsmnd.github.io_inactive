@@ -15,14 +15,12 @@
   - title: "About"
     url: /about/
   - title: "Posts"
-    url: /year-archive/
+    url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Collections"
+  - title: "Collection"
     url: /collection-archive/
   - title: "Google Fi Referral $20"
     url: https://g.co/fi/r/NRTD0D
