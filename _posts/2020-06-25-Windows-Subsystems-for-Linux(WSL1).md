@@ -1,6 +1,6 @@
 ---
-categories: WSL Linux
-tags: WSL Linux
+categories: WSL WSL1 Linux
+tags: WSL WSL1 Linux
 defaults:
   # _posts
   - scope:
@@ -14,6 +14,6 @@ defaults:
       share: true
       related: true
 ---
-
+In order to install Windows Subsystems for Linux(a.k.a WSL), you first need to check the "Windows Subsystem for Linux" in Windows Features.
 
 <!--- Author: Myungsik Kim -->
