@@ -1,6 +1,6 @@
 ---
 categories: WSL WSL1 Linux
-tags: WSL WSL1 Linux
+tags: wsl curl apt git zsh npm pure oh-my-zsh debian
 defaults:
   # _posts
   - scope:
@@ -22,16 +22,14 @@ defaults:
 
 > Next, Open the Microsoft Store then type "WSL", you will see a list of apps. In this post, I will use Debian(I personally like Debian over Ubuntu or CentOS), so download debian and install it:
 
-![Windows Features](/assets/images/posts/2020-06-25/02.png)
+![Microsoft Store](/assets/images/posts/2020-06-25/02.png)
 
-this is code block
+> After installed the Debian WSL, you first need to launch the debian app
 
-```java
-public class BootSpringBootApplication {
-  public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
-  }
-}
-```
+![Microsoft Store](/assets/images/posts/2020-06-25/03.png)
+
+> then you will see the command line interface (CLI)
+
+![Microsoft Store](/assets/images/posts/2020-06-25/04.png)
 
 <!--- Author: Myungsik Kim -->
