@@ -32,14 +32,15 @@ defaults:
 
 ![Microsoft Store](/assets/images/posts/2020-06-25/04.png)
 
-> I know it's not user friendly and ugly interface by default debian WSL theme.
-> Thus, I'd like to introduce several package for enhancing the debian WSL theme.
+> I know it's not user friendly and mehh interface by default debian WSL theme.
+> Thus, I'd like to introduce several packages for "enhancing" the debian WSL default setting below :
 >> 1. zsh
 >> 2. curl
 >> 3. git
 >> 4. npm
 >> 5. oh my zsh
 >> 6. powerline font
->> 7. zsh theme (agnoster)
+>> 7. zsh theme (agnoster, pure, etc..)
+>> 8. zsh plugins (auto suggestions, syntax highlighting, etc..)
 
 <!--- Author: Myungsik Kim -->
