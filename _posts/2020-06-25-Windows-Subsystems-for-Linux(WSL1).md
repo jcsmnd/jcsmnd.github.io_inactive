@@ -43,7 +43,7 @@ defaults:
 >> 7. zsh theme (agnoster, pure, powerlevel10k, etc..)
 >> 8. zsh plugins (auto suggestions, syntax highlighting, etc..)
 
-> 1. zsh
+> 1. zsh  
 > I highly recommend to use zsh in Debian Linux. It's super convenient and more useful than traditional bash shell.
 
 <!--- Author: Myungsik Kim -->
