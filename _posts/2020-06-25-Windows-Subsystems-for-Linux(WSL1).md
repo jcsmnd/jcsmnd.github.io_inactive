@@ -40,7 +40,10 @@ defaults:
 >> 4. npm
 >> 5. oh my zsh
 >> 6. powerline font
->> 7. zsh theme (agnoster, pure, etc..)
+>> 7. zsh theme (agnoster, pure, powerlevel10k, etc..)
 >> 8. zsh plugins (auto suggestions, syntax highlighting, etc..)
+
+> 1. zsh
+> I highly recommend to use zsh in Debian Linux. It's super convenient and more useful than traditional bash shell.
 
 <!--- Author: Myungsik Kim -->
